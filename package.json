@@ -1,0 +1,22 @@
+{
+  "name": "rememberinheart",
+  "version": "1.0.0",
+  "description": "Remember In Heart",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangRex/rememberinheart.git"
+  },
+  "keywords": [
+    "rememberinheart"
+  ],
+  "author": "Rex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangRex/rememberinheart/issues"
+  },
+  "homepage": "https://github.com/WangRex/rememberinheart#readme"
+}
